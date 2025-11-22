@@ -12,4 +12,5 @@ I made this as I have spare led strips and I'm in need of a christmas gift for m
 |Switching Power Supply Lighting Transformer|12v 2A Power Supply|	1	|5.22|	5.22|	https://www.aliexpress.com/item/1005007087317638.html|	17.29|
 |60W/80W Electric Soldering Iron	|Soldering Iron|	1|	10.23|	10.23|	https://www.aliexpress.com/item/1005005391946895.html|	28.75|
 |5M Silver Plated Copper Wire 24AWG	|for connecting esp32 and led strips|	1|	3.46|	3.46|	https://www.aliexpress.com/item/1005005321856209.html|	32.63|
-<img width="1580" height="118" alt="image" src="https://github.com/user-attachments/assets/bef35c28-0c61-4048-a404-eb00d64eaa13" />
+|ws2815 led strip|	5meters and 60leds/m	|1|	33.08|	33.08|	https://www.aliexpress.com/item/1005004215667132.html|	69.68|
+<img width="1580" height="166" alt="image" src="https://github.com/user-attachments/assets/2b56e48e-8eca-478d-b30a-878b419ab03c" />
